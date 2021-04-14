@@ -1,0 +1,54 @@
+{
+    "hazak": [
+        {
+            "nev": "Budai villa",
+            "kategoria":"ház",
+            "kep": "http://www.partnerimmobil.hu/ingatlan/A105/A105-01.jpg",
+            "terulet": "235",
+            "epitesEve": "2001",
+            "ar": "18000000 Ft"
+        },
+        {
+            "nev": "Farkasréti lakások",
+            "kategoria":"lakás",
+            "kep": "http://www.partnerimmobil.hu/ingatlan/G003/G003-01.jpg",
+            "terulet": "120",
+            "epitesEve": "1990",
+            "ar": "150000000 Ft"
+        },
+        {
+            "nev": "Örs vezér téri lakás",
+            "kategoria":"lakrész",
+            "kep": "http://www.partnerimmobil.hu/ingatlan/G029/G029-01.jpg",
+            "terulet": "60",
+            "epitesEve": "1994",
+            "ar": "50000000 Ft"
+        },
+        {
+            "nev": "Lakás a belvárosban",
+            "kategoria":"lakás",
+            "kep": "https://dhprime.hu/files/images/property_images/008000000CQMAVV/800/16115692854968.jpg",
+            "terulet": "33 ",
+            "epitesEve": "1800",
+            "ar": "60000000 Ft"
+        },
+     
+        {
+            "nev": "Konyhák királynője",
+            "kategoria":"lakrész",
+            "kep": "https://dhprime.hu/files/images/property_images/008000000CQMAVV/800/16115692926350.jpg",
+            "terulet": "40",
+            "epitesEve": "1976",
+            "ar": "80000  Ft"
+        },
+           {
+            "nev": "Nagytétény",
+            "kategoria":"albérlet",
+            "kep": "https://dhprime.hu/files/images/property_images/008000000D2D5B2/800/16107011568802.jpg",
+            "terulet": "60",
+            "epitesEve": "1890",
+            "ar": "150000 Ft"
+        }
+        
+    ]
+}

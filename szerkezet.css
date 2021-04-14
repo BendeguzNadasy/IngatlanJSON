@@ -1,0 +1,43 @@
+@charset "utf-8";
+body {
+    background:gray;
+    font-family:"Verdana", sans-serif;
+}
+main {
+    max-width:800px;
+    background:white;
+    width:80%;
+    padding:10px;
+    margin: auto
+}
+
+nav {
+    padding:5px;
+}
+
+header h1 {
+    text-align:center;
+    text-shadow: 2px 2px 5px white;
+}
+
+img {
+    width: 100%;
+}
+
+.kep {
+    grid-area: k;
+}
+.ing {
+    /*border: 1px solid black;*/
+    margin: 10px;
+    display: grid;
+    grid-template-areas: 
+        "k k k"
+        "1fr 1fr 1fr";
+    /*grid-gap: 10px;*/
+}
+
+.ing * {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
